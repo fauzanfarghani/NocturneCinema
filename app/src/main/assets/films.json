@@ -1,0 +1,47 @@
+[
+  {
+    "id": 101,
+    "title": "Inception",
+    "rating": 8.8,
+    "country": "USA",
+    "price": 50000,
+    "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/2/2e/Inception_%282010%29_theatrical_poster.jpg"
+  },
+  {
+    "id": 102,
+    "title": "Interstellar",
+    "rating": 8.6,
+    "country": "USA",
+    "price": 55000,
+    "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg"
+  },
+  {
+    "id": 103,
+    "title": "The Dark Knight",
+    "rating": 9.0,
+    "country": "USA",
+    "price": 60000,
+    "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/1/1c/The_Dark_Knight_%282008_film%29.jpg"
+  },
+  {
+    "id": 104,
+    "title": "Parasite",
+    "rating": 8.6,
+    "country": "South Korea",
+    "price": 45000,
+    "description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/5/53/Parasite_%282019_film%29.png"
+  },
+  {
+    "id": 105,
+    "title": "Spirited Away",
+    "rating": 8.6,
+    "country": "Japan",
+    "price": 40000,
+    "description": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/d/db/Spirited_Away_Japanese_poster.png"
+  }
+]

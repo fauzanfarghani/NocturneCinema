@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.NocturneCinema" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/cinema_red</item>
+        <item name="colorPrimaryVariant">@color/cinema_black</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/cinema_gold</item>
+        <item name="colorSecondaryVariant">@color/cinema_gold</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/cinema_black</item>
+        <!-- Background -->
+        <item name="android:windowBackground">@color/cinema_black</item>
+        <item name="android:textColor">@color/cinema_text_primary</item>
+    </style>
+</resources>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Nocturne Cinema</string>
+    <string name="welcome_message">Welcome to Nocturne Cinema</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone Number</string>
+    <string name="otp_code">OTP Code</string>
+    <string name="submit">Submit</string>
+    <string name="buy">Buy</string>
+    <string name="quantity">Quantity</string>
+    <string name="logout">Logout</string>
+    <string name="home">Home</string>
+    <string name="transactions">Transactions</string>
+    <string name="profile">Profile</string>
+    <string name="about_us">About Us</string>
+    <string name="company_desc">Nocturne Cinema is the best place to watch movies under the stars.</string>
+    <string name="no_account">Didn\'t have an account? Register here!</string>
+    <string name="has_account">Already has an account? Log in here</string>
+</resources>
